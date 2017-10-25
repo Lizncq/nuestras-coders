@@ -1,3 +1,3 @@
 # nuestras-coders
 Replica el siguiente esquema:
-![Sin titulo](assets/nuestras-coders.png)
+![Sin titulo](assets/imgs/nuestras-coders.png)
