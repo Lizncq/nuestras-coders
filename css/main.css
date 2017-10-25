@@ -1,0 +1,105 @@
+body
+{
+  font-family: monospace;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1
+{
+  padding-left: 10px;
+  margin-bottom: 8px;
+}
+
+div
+{
+width: 80px;
+height: 5px;
+background: #000;
+margin-left: 15px;
+}
+
+#first
+{
+  display: inline-block;
+  position: relative;
+  padding-left: 8px;
+
+}
+
+#second
+{
+  display: inline-block;
+  position: relative;
+  padding-left: 8px;
+}
+
+li
+{
+ list-style: none;
+ float: left;
+ left: 50px;
+ margin: 5px;
+}
+
+li:hover
+{
+filter: contrast(.4);
+}
+
+P
+{
+ font-size: 15px;
+ position: relative;
+ top: 220px;
+ text-align: center;
+ color: #fff;
+}
+
+.bg-dafnediaz
+{
+    width: 250px; height: 250px;
+    background: url('../assets/imgs/css_sprites.png') -10px -10px;
+}
+
+.bg-perladiaz
+{
+    width: 250px; height: 250px;
+    background: url('../assets/imgs/css_sprites.png') -650px -10px;
+}
+
+.bg-marielacubillos
+{
+    width: 250px; height: 250px;
+    background: url('../assets/imgs/css_sprites.png') -330px -10px;
+}
+
+.bg-nelyflores
+{
+    width: 250px; height: 250px;
+    background: url('../assets/imgs/css_sprites.png') -330px -330px;
+}
+
+.bg-silviaguerra
+{
+    width: 250px; height: 250px;
+    background: url('../assets/imgs/css_sprites.png') -650px -330px;
+}
+
+.bg-valentinalopez
+{
+    width: 250px; height: 250px;
+    background: url('../assets/imgs/css_sprites.png') -10px -650px;
+}
+
+.bg-rosmerymaldonado
+{
+    width: 250px; height: 250px;
+    background: url('../assets/imgs/css_sprites.png') -330px -650px;
+}
+
+.bg-melissa_pacheco
+{
+    width: 250px; height: 250px;
+    background: url('../assets/imgs/css_sprites.png') -10px -330px;
+}
